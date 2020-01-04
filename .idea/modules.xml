@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dw-chart/dw-chart.iml" filepath="$PROJECT_DIR$/dw-chart/dw-chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-canal/gmall0715-canal.iml" filepath="$PROJECT_DIR$/gmall0715-canal/gmall0715-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-common/gmall0715-common.iml" filepath="$PROJECT_DIR$/gmall0715-common/gmall0715-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-logger/gmall0715-logger.iml" filepath="$PROJECT_DIR$/gmall0715-logger/gmall0715-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-mock/gmall0715-mock.iml" filepath="$PROJECT_DIR$/gmall0715-mock/gmall0715-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-parent.iml" filepath="$PROJECT_DIR$/gmall0715-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-publisher/gmall0715-publisher.iml" filepath="$PROJECT_DIR$/gmall0715-publisher/gmall0715-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-realtime/gmall0715-realtime.iml" filepath="$PROJECT_DIR$/gmall0715-realtime/gmall0715-realtime.iml" />
+    </modules>
+  </component>
+</project>

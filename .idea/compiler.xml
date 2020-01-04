@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dw-chart" />
+        <module name="gmall0715-canal" />
+        <module name="gmall0715-common" />
+        <module name="gmall0715-logger" />
+        <module name="gmall0715-mock" />
+        <module name="gmall0715-publisher" />
+        <module name="gmall0715-realtime" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dw-chart" target="1.8" />
+      <module name="gmall0715-canal" target="1.8" />
+      <module name="gmall0715-common" target="1.8" />
+      <module name="gmall0715-logger" target="1.8" />
+      <module name="gmall0715-mock" target="1.8" />
+      <module name="gmall0715-parent" target="1.8" />
+      <module name="gmall0715-publisher" target="1.8" />
+      <module name="gmall0715-realtime" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmall0715-canal" options="" />
+      <module name="gmall0715-publisher" options="" />
+    </option>
+  </component>
+</project>
